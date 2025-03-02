@@ -13,6 +13,7 @@
 
  - <b>🛜 Networking Projects </b>
    - [Building a Personal Cloud Server](https://github.com/MalachiSec/Resume)
+   - [Installing and setting up Proxmox VE](https://github.com/MalachiSec/Resume)
 
 - <b>🔧 Programming Projects</b>
   - [HTML Resume Project](https://github.com/MalachiSec/Resume)
