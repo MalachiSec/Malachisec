@@ -13,6 +13,7 @@
 - <b>🔵 Blue Team Labs</b>
   - [Building a virtual environment for testing malware](https://github.com/MalachiSec/Malachisec)
   - [Python System Hardening Check Script](https://github.com/MalachiSec/Malachisec)
+  - [Setting up a Security Log Management Tool (ELK Stack)](https://github.com/MalachiSec/Malachisec)
 
  - <b>🛜 Networking Projects </b>
    - [Building a Personal Cloud Server](https://github.com/MalachiSec/Malachisec)
