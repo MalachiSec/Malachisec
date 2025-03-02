@@ -10,3 +10,6 @@
 
 - <b>🔵 Blue Team Labs</b>
   - [Building a virtual environment for testing malware](https://github.com/MalachiSec/Malware_Analysis_VE_Lab)
+
+- <b>🔧 Programming Projects</b>
+  - [HTML Resume Project](https://github.com/MalachiSec/Resume)
