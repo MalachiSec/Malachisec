@@ -25,3 +25,6 @@
  
  - <b>💻 Linux Labs</b>
    - [Installing Arch Linux](https://github.com/MalachiSec/Malachisec)
+
+ - <b>📄 Penetration Testing Reports</b>
+   - [Penetration Testing Report - Attacking Metasploitable 2](https://github.com/MalachiSec/Malachisec)
