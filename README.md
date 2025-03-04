@@ -25,6 +25,12 @@
  
  - <b>💻 Linux Labs</b>
    - [Installing Arch Linux](https://github.com/MalachiSec/Malachisec)
+    
+ - <b>👷‍♂️ IT Help Desk Labs</b>
+   - [Building a Help Desk Ticketing System (osTicket)](https://github.com/MalachiSec/Malachisec)
+   - [Setting Up Active Directory on Windows Server](https://github.com/MalachiSec/Malachisec)
+   - [Managing Active Directory Users](https://github.com/MalachiSec/Malachisec)
+   - [Setting up Remote IT Support sollutions (RDP, AnyDesk, TeamViewer)](https://github.com/MalachiSec/Malachisec)
 
  - <b>📄 Penetration Testing Reports</b>
    - [Penetration Testing Report - Attacking Metasploitable 2](https://github.com/MalachiSec/Malachisec)
