@@ -1,5 +1,12 @@
 <h1><a href="https://www.linkedin.com/in/malachi-rewane/">👉My Linkedin👈</a> <br/><a href="https://www.youtube.com/@MalachiRewane">👉My Youtube👈</a> </h1>
 
+<h2>👷‍♂️ IT Help Desk Labs:</h2>
+
+ - [Building a Help Desk Ticketing System (osTicket)](https://github.com/MalachiSec/Malachisec)
+ - [Setting Up Active Directory on Windows Server](https://github.com/MalachiSec/Malachisec)
+ - [Managing Active Directory Users](https://github.com/MalachiSec/Malachisec)
+ - [Setting up Remote IT Support sollutions (RDP, AnyDesk, TeamViewer)](https://github.com/MalachiSec/Malachisec)
+
 <h2>🔒 Cybersecurity Labs:</h2>
 
 - <b>🩻 Malware Analysis Labs</b>
@@ -25,12 +32,6 @@
  
  - <b>💻 Linux Labs</b>
    - [Installing Arch Linux](https://github.com/MalachiSec/Malachisec)
-    
- - <b>👷‍♂️ IT Help Desk Labs</b>
-   - [Building a Help Desk Ticketing System (osTicket)](https://github.com/MalachiSec/Malachisec)
-   - [Setting Up Active Directory on Windows Server](https://github.com/MalachiSec/Malachisec)
-   - [Managing Active Directory Users](https://github.com/MalachiSec/Malachisec)
-   - [Setting up Remote IT Support sollutions (RDP, AnyDesk, TeamViewer)](https://github.com/MalachiSec/Malachisec)
 
  - <b>📄 Penetration Testing Reports</b>
    - [Penetration Testing Report - Attacking Metasploitable 2](https://github.com/MalachiSec/Malachisec)
