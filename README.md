@@ -24,7 +24,7 @@
 
  - <b>🛜 Networking Labs</b>
    - [Building a Personal Cloud Server](https://github.com/MalachiSec/Malachisec)
-   - [Installing and setting up Proxmox VE](https://github.com/MalachiSec/Malachisec)
+   - [Installing and setting up Proxmox VE](https://github.com/MalachiSec/Installing_and_Setting_Up_Proxmox_VE/blob/main/README.md#requirements)
 
 - <b>🔧 Programming Labs</b>
   - [HTML Resume](https://github.com/MalachiSec/Malachisec)
